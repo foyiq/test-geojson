@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "region": "Zagreb region" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.887327, 45.944626],
+            [15.887327, 45.665159],
+            [16.693672, 45.665159],
+            [16.693672, 45.944626],
+            [15.887327, 45.944626]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "Southern Croatia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [16.695633, 44.647220],
+            [16.695633, 42.563581],
+            [18.867098, 42.563581],
+            [18.867098, 44.647220],
+            [16.695633, 44.647220]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "Eastern Croatia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [18.868522, 46.556310],
+            [18.868522, 44.656747],
+            [20.957979, 44.656747],
+            [20.957979, 46.556310],
+            [18.868522, 46.556310]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "Central Croatia except Zagreb region" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [14.782159, 46.360837],
+            [14.782159, 44.723168],
+            [16.503019, 44.723168],
+            [16.503019, 46.360837],
+            [14.782159, 46.360837]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "Western Croatia" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.719496, 46.462911],
+            [13.719496, 44.780845],
+            [14.787547, 44.780845],
+            [14.787547, 46.462911],
+            [13.719496, 46.462911]
+          ]
+        ]
+      }
+    }
+  ]
+}
