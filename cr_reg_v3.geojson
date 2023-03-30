@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zagreb",
+                "postal_code": "10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.981919, 45.815399]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Split",
+                "postal_code": "21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.443460, 43.508133]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osijek",
+                "postal_code": "31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.694659, 45.551110]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zadar",
+                "postal_code": "23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.227065, 44.119371]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Varaždin",
+                "postal_code": "42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.335427, 46.305556]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rijeka",
+                "postal_code": "51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.437800, 45.328979]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dubrovnik",
+                "postal_code": "20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.092162, 42.650661]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pula",
+                "postal_code": "52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.848920, 44.868501]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koprivnica",
+                "postal_code": "48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.836172, 46.163288]
+            }
+        }
+    ],
+    "regions": [
+        {
+            "name": "Zagreb region",
+            "postal_code_group": "1"
+        },
+        {
+            "name": "Southern Croatia",
+            "postal_code_group": "2"
+        },
+        {
+            "name": "Eastern Croatia",
+            "postal_code_group": "3"
+        },
+        {
+            "name": "Central Croatia",
+            "postal_code_group": "4"
+        },
+        {
+            "name": "Western Croatia",
+            "postal_code_group": "5"
+        }
+    ]
+}
